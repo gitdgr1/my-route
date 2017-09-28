@@ -1,5 +1,5 @@
-var hereID = "fwR40AcPwE28u6LoRlKW";
-var hereCode = "mt5hPTrBn7tXZBwjD7mlew";
+var hereID = "aoBClFpwTR9yNluI6xv2";
+var hereCode = "2kOR7PgSRbPozTAp5mra4g";
 
 var platform = new H.service.Platform({
   'app_id': hereID,
